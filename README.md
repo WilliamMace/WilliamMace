@@ -18,9 +18,9 @@ Program Analyst with 15+ years of experience managing IT programs and projects w
 | Certification | Issuing Organization |
 |---|---|
 | CompTIA CySA+ | CompTIA |
-| CompTIA PenTest+ | CompTIA |
-| Microsoft Azure Security Technologies (AZ-500) | Microsoft |
-| Microsoft Azure Fundamentals (AZ-900) | Microsoft |
+| CompTIA PenTest+ | Inprogress |
+| Microsoft Azure Security Technologies (AZ-500) | Inprogress |
+| Microsoft Azure Fundamentals (AZ-900) | Inprogress |
 | Certified in Cybersecurity (CC) | ISC2 |
 
 ## Core Competencies
